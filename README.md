@@ -1,6 +1,6 @@
 ## Hola, soy Fabio Amaris 👋
 
-![image](Imagenes/20250706_015404_.png)
+![image](Imagenes/bannerGitPerrito.png)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
