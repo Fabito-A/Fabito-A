@@ -4,7 +4,7 @@
 
 <!-- [![image](Imagenes/bannerGitPerrito.png)(https://www.fabioamaris.com/)] -->
 
-<p align="center"><a href="https://www.fabioamaris.com/"><img width="80%"" src="Imagenes/bannerGitPerrito.png" /></a></p>
+<p align="center"><a href="https://www.fabioamaris.com/"><img width="100%"" src="Imagenes/bannerGitPerrito.png" /></a></p>
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fabito-A&layout=compact&langs_count=8&theme=buefy"/>
 
