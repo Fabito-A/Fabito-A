@@ -4,9 +4,7 @@
 
 ![image](Imagenes/bannerGitPerrito.png)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fabito-A&layout=compact&langs_count=8&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fabito-A&layout=compact&langs_count=8&theme=buefy"/>
 
 <!--
 **Fabito-A/Fabito-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
