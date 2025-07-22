@@ -6,8 +6,18 @@
 
 <p align="center"><a href="https://www.fabioamaris.com/"><img width="100%"" src="Imagenes/bannerGitPerrito.png" /></a></p>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fabito-A&layout=compact&langs_count=8&theme=buefy"/>
-
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabito-A&theme=buefy&hide_border=false"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fabito-A&layout=compact&langs_count=8&theme=buefy"/>
+    </td>
+  </tr>
+</table>
+</div>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts,dotnet,cpp,azure,arduino,nodejs,unity)](https://skillicons.dev)
 
 <!--
