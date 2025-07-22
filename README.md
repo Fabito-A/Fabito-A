@@ -18,7 +18,15 @@
   </tr>
 </table>
 </div>
+
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts,dotnet,cpp,azure,arduino,nodejs,unity)](https://skillicons.dev)
+
+</div>
+
+
+
 
 <!--
 **Fabito-A/Fabito-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
