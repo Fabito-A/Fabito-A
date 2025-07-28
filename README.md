@@ -9,9 +9,10 @@
 <div align="center">
 <table>
   <tr>
-    <td>
+  <!--  <td>
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabito-A&theme=buefy&hide_border=false"/>
     </td>
+  -->
     <td>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fabito-A&layout=compact&langs_count=8&theme=buefy"/>
     </td>
